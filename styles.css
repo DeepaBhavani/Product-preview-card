@@ -14,8 +14,8 @@ body{
     justify-content: center;
     row-gap: none;
     background-color: white;
-    width:40vw;
-    height:70vh;
+    width:50vw;
+    height:80vh;
     border-radius: 5px;
 }
 img{
@@ -87,3 +87,4 @@ i{
     font-family: Arial, Helvetica, sans-serif;
 
 }
+
